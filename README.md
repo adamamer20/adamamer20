@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🧪 Research Assistant at CEMFI, Madrid (Emprical Behavioral Economics)<br>🤝 Consultant at 180 Degrees Consulting, Milan<br>🧠 Vice President at Bocconi Behavioral Insight Association (B.Bias)</p>
+<p align="left">🧪 Research Assistant at CEMFI, Madrid (Empirical Behavioral Economics)<br>🤝 Consultant at 180 Degrees Consulting, Milan<br>🧠 Vice President at Bocconi Behavioral Insight Association (B.Bias)</p>
 
 ###
 
