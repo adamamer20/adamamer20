@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 MSc AI student at Bocconi University, Milan, Italy <br>🧠 (Self-proclaimed) Computational Social Scientist <br>🤖 Machine Learning Enthusiast<br><br>🌟 On a quest to understand human nature and artificial cognition!</p>
+<p align="left">💼 AI & Cloud Architect at KPMG Italy <br> 🎓 MSc AI student at Bocconi University, Milan, Italy <br>🧠 (Self-proclaimed) Computational Social Scientist <br>🤖 Machine Learning Enthusiast<br><br>🌟 On a quest to understand human nature and artificial cognition!</p>
 
 ###
 
