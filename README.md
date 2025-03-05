@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔬 Research Assistant at Bocconi Institute for Data Science and Analytics<br>   - Focusing on Reinforcement Learning<br>🌴 Google Summer of Code 2024 Contributor for Project MESA<br>   - Working on mesa-frames: Enhancing MESA with vectorized operations! 🚀</p>
+- Working on mesa-frames: Enhancing MESA with vectorized operations! 🚀</p>
 
 ###
 
