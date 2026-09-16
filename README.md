@@ -1,91 +1,45 @@
-<h1 align="left">Hi There👋! I'm Adam Amer</h1>
+<p align="center">
+  I work at the intersection of <strong>artificial intelligence</strong>,
+  <strong>computational social science</strong>, and <strong>software engineering</strong>.
+</p>
 
-###
+<p align="center">
+  Currently building <a href="https://sprintact.eu"><strong>SprintAct</strong></a> at
+  <a href="https://stele.it.com"><strong>Stele</strong></a>, a platform for verifiable legal research.
+</p>
 
-<h2 align="left">🚀 About Me</h2>
+<p align="center">
+  I'm the creator of
+  <a href="https://github.com/mesa/mesa-frames"><strong>mesa-frames</strong></a>,
+  a high-performance agent-based modelling framework built with <strong>Polars</strong>,
+  initially developed through <strong>Google Summer of Code</strong> with Mesa.
+</p>
 
-###
+<p align="center">
+  I'm especially interested in how AI, simulation, and computation can help us
+  understand complex social systems.
+</p>
 
-<p align="left">💼 AI & Cloud Architect at KPMG Italy <br> 🎓 MSc AI student at Bocconi University, Milan, Italy <br>🧠 (Self-proclaimed) Computational Social Scientist <br>🤖 Machine Learning Enthusiast<br><br>🌟 On a quest to understand human nature and artificial cognition!</p>
+<br>
 
-###
-
-<h2 align="left">🛠️ Current Projects</h2>
-
-###
-
-- Working on mesa-frames: Enhancing MESA with vectorized operations! 🚀</p>
-
-###
-
-<h2 align="left">💼 Experience</h2>
-
-###
-
-<p align="left">🧪 Research Assistant at CEMFI, Madrid (Empirical Behavioral Economics)<br>🤝 Consultant at 180 Degrees Consulting, Milan<br>🧠 Vice President at Bocconi Behavioral Insight Association (B.Bias)</p>
-
-###
-
-<h2 align="left">🧠 Research Interests</h2>
-
-###
-
-<p align="left">- Large Language Models (LLMs)<br>- Multi-Agent Systems<br>- Agent-Based Modelling<br>- Creating and studying artificial societies! 🏙️</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamamer20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/adam-amer-italy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="30"
+      height="30"
+      alt="LinkedIn"
+    />
   </a>
-  <a href="https://matrix.to/#/@adamamer20:matrix.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="52" height="40" alt="matrix logo"  />
-  </a>
-  <a href="adam.amer.edu@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adam@adamamer.it">
+  <img
+    src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/icons/envelope-at.svg"
+    width="30"
+    height="30"
+    alt="Email"
+  />
+</a>
+</p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/adamamer20/adamamer20/output/snake.svg" alt="Snake animation" />
-
-###
+<br>
